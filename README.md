@@ -3,8 +3,7 @@
 本模板根据[国科大学位论文模板](https://github.com/mohuangrui/ucasthesis)修改而来。
 
 - 基本用法
-![封面设计](/Img/Others/exam1.png)
 
-<img src="/Img/Others/exam1.png" width = "200" height = "200" alt="封面设计" align=center />
+<img src="/Img/Others/exam1.png" width = "800" height = "500" alt="封面设计" align=center />
 
-![页眉页脚设计](/Img/Others/exam2.png)
+<img src="/Img/Others/exam2.png" width = "800" height = "500" alt="页眉页脚设计" align=center />
