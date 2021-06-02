@@ -5,4 +5,4 @@
 - 基本用法
 ![封面设计](/Img/Others/exam1.png)
 
-![页眉页脚设计](/Img/Others/example2.png)
+![页眉页脚设计](/Img/Others/exam2.png)
